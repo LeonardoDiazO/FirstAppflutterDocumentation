@@ -1,4 +1,4 @@
-APP DE INICIACION DE FLUTTER CON AYUDA DE DOCUMENTACION
+APP DE INICIACIÓN DE FLUTTER CON AYUDA DE DOCUMENTACIÓN
 
 Descripción: Es un proyecto para iniciar los primeros pasos en flutter con el fin de aprender del lenguaje
 
